@@ -1,1 +1,2 @@
-test
+config:
+	info: "main branch, springclooud-config/config-dev.yml version1"
